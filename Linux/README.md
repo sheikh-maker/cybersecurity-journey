@@ -43,3 +43,39 @@ Commands:
 ls -la
 chmod
 chown
+```
+
+## 4. Users and Groups
+
+Commands:
+
+```bash
+whoami
+id
+groups
+```
+
+## 5. Networking Commands
+
+Commands:
+
+```bash
+ip a
+ping
+netstat
+ss
+curl
+```
+
+## 6. Lessons Learned
+
+- Learned how to use Hack The Box Academy as a hands-on cybersecurity learning platform.
+- Learned how to connect and work with VPN environments used in security labs.
+- Improved my ability to navigate Linux systems using the command line.
+- Learned how to manage files and directories, including creating, moving, copying, filtering, and searching for files.
+- Improved my understanding of Linux file permissions, users, and groups.
+- Practiced reading and analyzing system information through Linux commands.
+- Developed better documentation skills by writing notes and recording technical knowledge.
+- Gained experience with the workflow used in cybersecurity labs, including learning, testing, and documenting findings.
+
+
